@@ -1,0 +1,4 @@
+C81;Segurança E Auditoria De Sistemas;
+ES51;Programação Desktop;
+ES61;Estimativas Métricas De Software;
+ES51;Qualidade De Software;
